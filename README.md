@@ -15,7 +15,7 @@ This CRUD has a simple interface and it's like this:
             <th>1</th>
             <th>Luan Farias</th>
             <th>luan.farias_bvs@outlook.com</th>
-            <th>[Editar] [Excluit]</th>
+            <th>[Editar] [Excluir]</th>
         </tr>
     </table>
 </div>
