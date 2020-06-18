@@ -5,13 +5,13 @@ This CRUD has a simple interface and it's like this:
 <div>
     <a href="#">Adicionar Usuario</a>
     <table border="1" width="100%">
-        <tr>
+        <tr width="100%">
             <th>ID</th>
             <th>Nome</th>
             <th>Email</th>
             <th>Ações</th>
         </tr>
-        <tr>
+        <tr width="100%">
             <th>1</th>
             <th>Luan Farias</th>
             <th>luan.farias_bvs@outlook.com</th>
